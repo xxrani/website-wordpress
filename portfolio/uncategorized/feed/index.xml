@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arquivo de Uncategorized - NassauSoft</title>
+	<atom:link href="/portfolio/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/portfolio/uncategorized/</link>
+	<description>Um exemplo de website para uma empresa júnior</description>
+	<lastBuildDate>Tue, 19 Dec 2023 18:06:43 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/12/favicon.ico</url>
+	<title>Arquivo de Uncategorized - NassauSoft</title>
+	<link>/portfolio/uncategorized/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Site institucional</title>
+		<link>/project/site-institucional/</link>
+		
+		<dc:creator><![CDATA[xxrani]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 18:06:43 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=portfolio_item#038;p=66</guid>
+
+					<description><![CDATA[<p>O post <a href="/project/site-institucional/">Site institucional</a> apareceu primeiro em <a href="">NassauSoft</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-group has-global-padding is-layout-constrained wp-block-group-is-layout-constrained">
+<figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="683" src="/wp-content/uploads/2023/12/pexels-thisisengineering-3861972-1024x683.jpg" alt="" class="wp-image-68" style="width:363px;height:auto" srcset="/wp-content/uploads/2023/12/pexels-thisisengineering-3861972-1024x683.jpg 1024w, /wp-content/uploads/2023/12/pexels-thisisengineering-3861972-300x200.jpg 300w, /wp-content/uploads/2023/12/pexels-thisisengineering-3861972-2000x1334.jpg 2000w, /wp-content/uploads/2023/12/pexels-thisisengineering-3861972-600x400.jpg 600w, /wp-content/uploads/2023/12/pexels-thisisengineering-3861972-1200x800.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+<p>O post <a href="/project/site-institucional/">Site institucional</a> apareceu primeiro em <a href="">NassauSoft</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

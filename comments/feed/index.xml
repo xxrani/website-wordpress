@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre NassauSoft	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Um exemplo de website para uma empresa júnior</description>
+	<lastBuildDate>Tue, 19 Dec 2023 18:47:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>
+		Comentário sobre Apenas um novo post! por xxrani		</title>
+		<link>/2023/12/19/apenas-um-novo-post/#comment-3</link>
+
+		<dc:creator><![CDATA[xxrani]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 18:47:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=88#comment-3</guid>
+
+					<description><![CDATA[Muito bom!]]></description>
+			<content:encoded><![CDATA[<p>Muito bom!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Olá, mundo! por xxrani		</title>
+		<link>/2023/12/18/ola-mundo/#comment-2</link>
+
+		<dc:creator><![CDATA[xxrani]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 18:20:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-2</guid>
+
+					<description><![CDATA[Melhor empresa em que já trabalhei!]]></description>
+			<content:encoded><![CDATA[<p>Melhor empresa em que já trabalhei!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
+		<link>/2023/12/18/ola-mundo/#comment-1</link>
+
+		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
+		<pubDate>Mon, 18 Dec 2023 22:39:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+
+					<description><![CDATA[Oi, isto é um comentário.
+Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.
+Os avatares dos comentaristas vêm do &lt;a href=&quot;https://br.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Oi, isto é um comentário.<br />
+Para iniciar a moderar, editar e excluir comentários, visite a tela Comentários no painel.<br />
+Os avatares dos comentaristas vêm do <a href="https://br.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

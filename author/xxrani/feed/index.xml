@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xxrani, Autor em NassauSoft</title>
+	<atom:link href="/author/xxrani/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/xxrani/</link>
+	<description>Um exemplo de website para uma empresa júnior</description>
+	<lastBuildDate>Tue, 19 Dec 2023 18:47:00 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/12/favicon.ico</url>
+	<title>xxrani, Autor em NassauSoft</title>
+	<link>/author/xxrani/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apenas um novo post!</title>
+		<link>/2023/12/19/apenas-um-novo-post/</link>
+					<comments>/2023/12/19/apenas-um-novo-post/#comments</comments>
+		
+		<dc:creator><![CDATA[xxrani]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2023 18:47:00 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=88</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida pharetra leo non commodo. Sed placerat metus vel nibh mattis suscipit. Phasellus et ante nunc. Nullam sed turpis sit amet justo scelerisque dignissim. Quisque facilisis enim mauris, non blandit lacus viverra commodo. Donec nibh mi, ornare a orci vitae, mattis eleifend enim. Donec at vulputate &#8230; </p>
+<p class="link-more"><a href="/2023/12/19/apenas-um-novo-post/" class="more-link">Leia mais<span class="screen-reader-text"> "Apenas um novo post!"</span></a></p>
+<p>O post <a href="/2023/12/19/apenas-um-novo-post/">Apenas um novo post!</a> apareceu primeiro em <a href="">NassauSoft</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida pharetra leo non commodo. Sed placerat metus vel nibh mattis suscipit. Phasellus et ante nunc. Nullam sed turpis sit amet justo scelerisque dignissim. Quisque facilisis enim mauris, non blandit lacus viverra commodo. Donec nibh mi, ornare a orci vitae, mattis eleifend enim. Donec at vulputate ex. Quisque condimentum ullamcorper sapien. Morbi commodo risus erat, non mattis quam accumsan quis.</p>
+<p>O post <a href="/2023/12/19/apenas-um-novo-post/">Apenas um novo post!</a> apareceu primeiro em <a href="">NassauSoft</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/19/apenas-um-novo-post/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Olá, mundo!</title>
+		<link>/2023/12/18/ola-mundo/</link>
+					<comments>/2023/12/18/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[xxrani]]></dc:creator>
+		<pubDate>Mon, 18 Dec 2023 22:39:21 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+<p>O post <a href="/2023/12/18/ola-mundo/">Olá, mundo!</a> apareceu primeiro em <a href="">NassauSoft</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+<p>O post <a href="/2023/12/18/ola-mundo/">Olá, mundo!</a> apareceu primeiro em <a href="">NassauSoft</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/18/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
